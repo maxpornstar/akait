@@ -20,3 +20,8 @@ html, body {
     right: 0;
     font-family: 'Inter';
 }
+.t-tildalabel {
+    display: none!important;
+    height: 0!important;
+    scale: 0!important;
+}
