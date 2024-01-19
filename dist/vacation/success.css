@@ -1,0 +1,22 @@
+/**
+ * Project: akait
+ * Name:    success.css
+ * Author:  mxp
+ * Version: 1.0
+ * Date:    15.01.2024
+**/
+html, body {
+    overflow: hidden!important;
+    background: #efefef!important;
+}
+#rec692002642 {
+    margin-top: 33.333vh!important;
+    margin-bottom: 33.333vh!important;
+}
+.t588__subdescr {
+    position: absolute;
+    bottom: 16px;
+    left: 0;
+    right: 0;
+    font-family: 'Inter';
+}
