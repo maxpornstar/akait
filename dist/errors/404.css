@@ -1,0 +1,27 @@
+/**
+ * Project: akait
+ * Name:    404.css
+ * Author:  mxp
+ * Version: 1.0
+ * Date:    18.01.2024
+**/
+html, body {
+    overflow: hidden!important;
+    background: #efefef!important;
+}
+#rec694015518 {
+    margin-top: 33.333vh!important;
+    margin-bottom: 33.333vh!important;
+}
+.t588__subdescr {
+    position: absolute;
+    bottom: 16px;
+    left: 0;
+    right: 0;
+    font-family: 'Inter';
+}
+.t-tildalabel {
+    display: none!important;
+    height: 0!important;
+    scale: 0!important;
+}
